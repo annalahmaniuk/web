@@ -18,7 +18,7 @@
         <label for="calendar">Виберіть дату:</label><br>
         <input type="date" id="calendar" name="calendar"><br>
         <input type="submit" value="Відправити">
-    </form>
+  
 </body>
 </html>
 
