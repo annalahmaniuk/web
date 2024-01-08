@@ -10,7 +10,6 @@
             text-align: center;
         }
     </style>
-</head>
 <body>
 <form action="lab.php" method="post">
     <input type="text" id ="note" name="note"><br>
@@ -18,4 +17,5 @@
     <input type="submit">
 </form>
 </body>
+    </head>
 </html>
